@@ -48,6 +48,7 @@ main {
   margin: 0 90px;
   display: flex;
   height: 100%;
+  gap: 40px;
 
   @media screen and (min-width: $bigScreenW) {
     margin: 0 auto;

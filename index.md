@@ -19,6 +19,10 @@ Her research interests focus on **graph learning**, **natural language processin
 # News
 ---
 
+- **Nov, 2024**: I passed the job report for promotion to Tenured Associate Professor! Thank you all for the support and help! 
+- **Nov, 2024**: A paper, “Self data augmentation for Open Domain Question Answering”, is accepted by TOIS (CCF-A journal). Congratulations, Mengqi! 
+- **Nov, 2024**: A paper, “CoopRide: Cooperate All Grids in City-Scale Ride-Hailing Dispatching with Multi-Agent Reinforcement Learning”,  is accepted by SIGKDD, 2025! Congratulations to all coauthors!
+- **Oct, 2024**: A project, “Research on robust open-set learning with complex data noise”, is approved, which is supported by Guangdong Basic and Applied Basic Research Foundation.
 - **Sep, 2024**: A paper, “EGonc : Energy-based Open-Set Node Classification with substitute Unknowns”, is accepted by NeurIPS, 2024. Congratulations, Zelin!
 - **Sep, 2024**: A paper, “CHAmbi: A New Benchmark on Chinese Ambiguity Challenges for Large Language Models”, is accepted by EMNLP, 2024. Congratulations, Sihan!
 - **July, 2024**: A paper, “Open-world Structured Sequence Learning Via Dense Target Encoding”, is accepted by Information Sciences, 2024. Congratulations, Ziqi!

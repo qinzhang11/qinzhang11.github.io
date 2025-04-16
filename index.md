@@ -19,7 +19,7 @@ Her research interests focus on **graph learning**, **natural language processin
 # News
 ---
 
-- **Mar， 2025:** A paper, “Deep learning based open set recognition: A survey (基于深度学习的开放集识别研究综述）”, is accepted by Chinese Journal of Computers (计算机学报，CCF-T1 journal) and coming soon online. Congratulations, Ziqi!
+- **Mar, 2025:** A paper, “Deep learning based open set recognition: A survey (基于深度学习的开放集识别研究综述）”, is accepted by Chinese Journal of Computers (计算机学报，CCF-T1 journal) and coming soon online. Congratulations, Ziqi!
 - **Feb, 2025:** I will attend AAAI-2025 in person, wish to see you in Philadelphia, Pennsylvania.
 - **Feb, 2025:** A paper, "The rise of small language models", is accepted by IEEE Intelligent Systems, and available online. Congratulations!
 - **Nov, 2024**: I passed the job report for promotion to Tenured Associate Professor! Thank you all for the support and help! 
